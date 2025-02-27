@@ -1,6 +1,6 @@
 pipeline{
  environment {
- registry = "ravispp/vatcal"
+ registry = "ravisupp/vatcal"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
